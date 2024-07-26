@@ -3,7 +3,10 @@ Hello :)
 Please enter the current directory and run these commands
 
 To build and run the docker image please execute
+
 docker build -t <tag_name> . <!-- Please add a tag name>
+
+
 docker run -d -p 8080:8080 <tag_name>
 
 Example of GET and POST requests:
