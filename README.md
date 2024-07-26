@@ -2,7 +2,7 @@ Hello :)
 Please note: The main file has the JavaScript code for the same question. To access the Go code please cd into the RecipeApp folder.
 
 * JavaScript
-Please enter the current directory and run these commands
+<pre>Please enter the current directory and run these commands </pre>
 
 To build and run the docker image please execute
 
@@ -15,6 +15,8 @@ Example of GET and POST requests:
 <pre>http://localhost:8080/receipts/process </pre>
 <pre> http://localhost:8080/receipts/737e3890-d4f6-4089-a507-dced965/points </pre>
 Please not that the id has to be changed according to what is created from the post request
+
+
 
 *Go
 <pre>cd RecipeApp </pre>
